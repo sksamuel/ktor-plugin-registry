@@ -1,0 +1,8 @@
+name: Cohort
+description: Cohort is a Spring Actuator style replacement for Ktor. It provides health checks for orchestrators like Kubernetes and management of logging, databases, JVM settings, memory and threads in production.
+vcsLink: https://github.com/sksamuel/cohort
+license: Apache 2.0
+category: Monitoring
+prerequisites:
+  - routing
+documentation: documentation.md
